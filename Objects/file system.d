@@ -1,0 +1,20 @@
+.\objects\file system.o: SRC\File system\file system.c
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h
+.\objects\file system.o: D:\Projects\mp3\RTE\RTE_Components.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h
+.\objects\file system.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\system_stm32f10x.h
+.\objects\file system.o: D:\Projects\mp3\RTE\Device\STM32F103RC\stm32f10x_conf.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_dac.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include\stm32f10x.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\StdPeriph_Driver\inc\misc.h
+.\objects\file system.o: D:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\FileSystem\Include\rl_fs.h
+.\objects\file system.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
